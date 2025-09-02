@@ -73,8 +73,8 @@ Make sure you have the following installed on your system:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/pro-image-tool.git
-    cd pro-image-tool
+    git clone https://github.com/devranjeet/imgcompress.git
+    cd imgcompress
     ```
 
 2.  **Create and activate a virtual environment:**
